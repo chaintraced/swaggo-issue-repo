@@ -6,7 +6,7 @@ Once this version is installed ([Swaggo](github.com/swaggo/swag) from master bra
 swag init
 ```
 
-you'll get the error
+you'll get an output similar to:
 
 ```
 2022/08/23 13:27:14 Generate swagger docs....
