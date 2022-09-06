@@ -1,2 +1,4 @@
-replace field.Field[Actor] Actor
-replace field.Field[[]Actor] []Actor
+replace field.Field[Person] Person
+replace field.Field[[]Person] []Person
+replace field.Field[actor.Actor] actor.Actor
+replace field.Field[[]actor.Actor] []actor.Actor
